@@ -14,7 +14,7 @@ def countdown(t):
 
 
 
-t = 10 #ammount of time 
+t = 10 #ammount of time, t = number of seconds :)
 
 
 countdown(int(t))
